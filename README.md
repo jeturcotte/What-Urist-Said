@@ -6,6 +6,10 @@ This is a public repo for (mostly) additions and (a few) adjustments made to the
 
 There's no install script, per se.  Just copy these files over to the main /raw/objects/ directory in your expendable copy of dwarf fortress and allow them to overwrite the existing versions.  And poof, any new game you start will come with all the below new words.
 
+# Contribution
+
+You are welcome and encouraged to contribute to these language additions.  Expect to find a few small errors herein.  Just fork this repo as your own, and submit a pull request back when you have something you want added.  I'll admit most things, though I'll block anything that I feel damages the work.  Token errors, crude or explicit language, etc.  But that's about all I can think of at the moment.
+
 # Change log:
 
 ## version 0.1.6 ~~ 'further vocabulary VI'
