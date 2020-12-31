@@ -1181,7 +1181,6 @@ language_ELF
 	[T_WORD:MEDITATION:neba]
 	[T_WORD:MEET:awiyo]
 	[T_WORD:MELLOW:nowo]
-	[T_WORD:MELT:cane]
 	[T_WORD:MEMORY:nemetho]
 	[T_WORD:MENACE:sofipu]
 	[T_WORD:MERCHANT:ficemi]

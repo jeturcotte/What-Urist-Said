@@ -1181,7 +1181,6 @@ language_GOBLIN
 	[T_WORD:MEDITATION:gotkol]
 	[T_WORD:MEET:ugar]
 	[T_WORD:MELLOW:zusmuz]
-	[T_WORD:MELT:luzo]
 	[T_WORD:MEMORY:tok]
 	[T_WORD:MENACE:kutsmob]
 	[T_WORD:MERCHANT:muk]

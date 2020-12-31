@@ -1181,7 +1181,6 @@ language_DWARF
 	[T_WORD:MEDITATION:an]
 	[T_WORD:MEET:lar]
 	[T_WORD:MELLOW:unob]
-	[T_WORD:MELT:kalal]
 	[T_WORD:MEMORY:gidur]
 	[T_WORD:MENACE:nalthish]
 	[T_WORD:MERCHANT:asmel]

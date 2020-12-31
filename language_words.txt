@@ -5678,6 +5678,8 @@ language_words
 		[FRONT_COMPOUND_ADJ]
 		[REAR_COMPOUND_ADJ]
 		[THE_COMPOUND_ADJ]
+	[VERB:melt:melts:melted:melted:melting]
+		[STANDARD_VERB]
 
 [WORD:MONKEY]
 	[NOUN:monkey:monkeys]
@@ -12297,15 +12299,6 @@ language_words
 		[THE_NOUN_PLUR]
 		[OF_NOUN_PLUR]
 	[VERB:shovel:shovels:shoveled:shoveled:shoveling]
-		[STANDARD_VERB]
-
-[WORD:MELT]
-	[ADJ:molten]
-		[ADJ_DIST:2]
-		[FRONT_COMPOUND_ADJ]
-		[REAR_COMPOUND_ADJ]
-		[THE_COMPOUND_ADJ]
-	[VERB:melt:melts:melted:melted:melting]
 		[STANDARD_VERB]
 
 [WORD:WRACK]

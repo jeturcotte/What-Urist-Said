@@ -1181,7 +1181,6 @@ language_HUMAN
 	[T_WORD:MEDITATION:aba]
 	[T_WORD:MEET:jamas]
 	[T_WORD:MELLOW:panad]
-	[T_WORD:MELT:makath]
 	[T_WORD:MEMORY:arkur]
 	[T_WORD:MENACE:eslul]
 	[T_WORD:MERCHANT:hathur]
