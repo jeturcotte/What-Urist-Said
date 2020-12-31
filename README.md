@@ -12,7 +12,17 @@ You are welcome and encouraged to contribute to these language additions.  Expec
 
 # Change log:
 
-## version 0.1.6 ~~ 'further vocabulary VI'
+## version 0.1.7 ~~ A Few Bold Actions
+
+* word fixes
+  * found that MOLTEN was in there twice... so lost MELT and merged MOLTEN
+* word additions
+  * DEFY (adjective and verb)
+  * RELY (adjective and verb)
+  * RESOLVE (noun, adjective and verb)
+  * VALOR (noun and adjective)
+
+## version 0.1.6 ~~ The Odd Jobs
 
 * more language stuff, a lot of which is job and worker related, introducing a basic language system
   * wherein:
@@ -84,7 +94,7 @@ You are welcome and encouraged to contribute to these language additions.  Expec
     * WORSHIP and WORSHIPPER adjusted
   * also fixed FELDSPAR calling itself felspar in game
 
-## version 0.1.5 ~~ 'further vocabulary V'
+## version 0.1.5 ~~ This Is The Way
 
 * on a whim, decided to add to the language files (dont tell me what to do!):
   * Adding adjective 'ruinous' to the verb RUIN_V
@@ -124,7 +134,7 @@ You are welcome and encouraged to contribute to these language additions.  Expec
   * LODGE_PLACE (n,v) a lodge or to lodge for the night somewhere
   * Tinkered a fair bit with the language files in and aroudn terms for nations; confederacy through hegemony, so they had, in most languages, similarities to one another
 
-## version 0.1.5 ~~ 'further vocabulary IV'
+## version 0.1.4 ~~ In Reference to Ancient Lifeforms
 
 * on a whim, decided to add to the language files (because reasons):
   * REPTILE 
@@ -133,7 +143,7 @@ You are welcome and encouraged to contribute to these language additions.  Expec
   * OLM (toad, frog already present)
   * SALAMANDER
 
-## version 0.1.4 ~~ 'further vocabulary III'
+## version 0.1.3 ~~ States of Being
 
 * on a whim, decided to add to the language files (because reasons):
   * COLONY
@@ -147,15 +157,8 @@ You are welcome and encouraged to contribute to these language additions.  Expec
   * SINGULAR (takes a cue from SINGLE)
   * RAPT & RAPTURE
   * SCENE
-  
-## version 0.1.3 ~~ 'better vocabulary IIb'
 
-* um... so... yeah
-  * I went through the ENTIRE language file and fixed things ups
-  * It's not complete, but it is MORE complete than the originals
-  * There may be some err
-
-## version 0.1.2 ~~ 'further vocabulary II'
+## version 0.1.2 ~~ Legalities and Such
 
 * on a whim, decided to add to the language files (because reasons):
   * PROXIMITY
@@ -167,11 +170,11 @@ You are welcome and encouraged to contribute to these language additions.  Expec
   * COURT
   * COURTSHIP
 
-## version 0.1.1 ~~ 'further vocabulary I'
+## version 0.1.1 ~~ Placements
 
 * on a whim, decided to add to the language files:
-  * Buttes (the flat topped hills)
-  * Contracts (legal AND physical)
-  * Expansions (physical)
-  * Crags
-  * Forges
+  * BUTTE (the flat topped hills)
+  * CONTRACT and CONTRACT (legal AND physical)
+  * EXPANSE (physical)
+  * CRAG
+  * FORGE
