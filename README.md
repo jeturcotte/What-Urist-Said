@@ -178,3 +178,10 @@ You are welcome and encouraged to contribute to these language additions.  Expec
   * EXPANSE (physical)
   * CRAG
   * FORGE
+ 
+## version 0.1.0 ~~ Uh, Why not?
+
+* on a whim, decided to add to the language files:
+  * LAVA
+  * MAGMA
+  * KRYSS
