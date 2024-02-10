@@ -2,6 +2,10 @@
 
 This is a public repo for (mostly) additions and (a few) adjustments made to the raw files for dwarf fortress, currently caught up with DF 0.47.04.  It's also a subset of https://github.com/jeturcotte/raw_dwarf_meat, excluding changes to animals, minerals, and minor corrections to some graphics.  Here it's just words.
 
+# Upcoming Changes
+
+Having deployed this work as a steam mod by the same name for the steam edition of the game, it's become clear there's a typo or omission or two somewhere in this mess that occasionally results in a blank.  Work is being done to produce a django admin to handle all this and help pretect the author and the users from human error like that.  I will leap to 1.0.0 with the repairs, the admin itself, and perhaps a couple new words 'on a whim.'
+
 # Usage
 
 There's no install script, per se.  Just copy these files over to the main /raw/objects/ directory in your expendable copy of dwarf fortress and allow them to overwrite the existing versions.  And poof, any new game you start will come with all the below new words.
